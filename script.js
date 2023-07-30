@@ -1,6 +1,6 @@
 //your code here
 function swapTheme() {
-	var theme = document.getElementById('app');
+var theme = document.getElementById('app');
 var swapBtn = document.querySelector('#swap');
  	if(theme.classList.contains('day')){
 		theme.classList.remove('day');

@@ -1,3 +1,8 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
 #app{
 	margin:0px;
 	height:100vh;
@@ -12,5 +17,8 @@
   background-color: black;
   color:white;
 }
-.butt
+.button_day{
+	margin:5px;
+	padding:5px;
+}
 
