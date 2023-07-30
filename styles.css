@@ -1,16 +1,15 @@
 #app{
-  height:90vh;
+	margin:0px;
+	height:100%;
+	width:100%;
+	text-align:center;
+}
+.day{
+	background-color:white;
+	color:black;
 }
 .night{
   background-color: black;
   color:white;
 }
 
-#swap{
-  outline:0;
-}
-
-.button_night{
-  background-color:blue;
-  color:white; 
-}
