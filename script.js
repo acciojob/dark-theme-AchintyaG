@@ -1,7 +1,6 @@
-//your code here
-function swapTheme() {
 var theme = document.getElementById('app');
-var swapBtn = document.querySelector('#swap');
+var swapBtn = document.querySelector('#swap');//your code here
+function swapTheme() {
  	if(theme.classList.contains('day')){
 		theme.classList.remove('day');
 		theme.classList.add('night');
