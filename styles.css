@@ -11,11 +11,11 @@
 }
 .day{
 	background-color:white;
-	color:black;
+	color:aqua;
 }
 .night{
   background-color: black;
-  color:white;
+  color:aqua;
 }
 .button_day{
 	margin:5px;
